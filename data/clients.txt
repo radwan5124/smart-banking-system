@@ -1,0 +1,4 @@
+1001,radwan,5300.0,YER
+1002,ali,4000.0,YER
+client1,Ahmed Client,1500.0,YER
+client2,Sara Client,2500.0,YER
