@@ -1,0 +1,3 @@
+# Smart Banking System
+# Pure Python - No external dependencies required
+# Python 3.8 or higher recommended
